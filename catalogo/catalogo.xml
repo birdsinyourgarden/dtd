@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogo SYSTEM "catalogo.dtd">
+<catalogo>
+    <libro>
+    <titulo>El Quijote</titulo>
+    <autor>Miguel de Cervantes</autor>
+    <anio>1605</anio>
+    <categorias>
+        <categoria>Novela</categoria>
+        <categoria>Clásico</categoria>
+    </categorias>
+    </libro>
+</catalogo>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tareas SYSTEM "externo1.dtd">
+<tareas>
+    <tarea>
+        <titulo>Estudiar XML</titulo>
+        <descripcion>Repasar DTD y esquemas</descripcion>
+        <estado>No completada</estado>
+    </tarea>
+        <tarea>
+        <titulo>Hacer ejercicio</titulo>
+        <descripcion>Salir a correr 1 hora</descripcion>
+        <estado>Completada</estado>
+    </tarea>
+</tareas>

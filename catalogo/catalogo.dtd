@@ -1,0 +1,11 @@
+<!ELEMENT catalogo (libro+)>
+
+<!ELEMENT libro (titulo, autor, anio, categorias?)>
+
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+
+<!ELEMENT categorias (categoria+)>
+<!ELEMENT categoria (#PCDATA)>
+

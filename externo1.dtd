@@ -1,0 +1,5 @@
+    <!ELEMENT tareas (tareas+)>
+    <!ELEMENT tarea (titulo, descripcion, estado)>
+    <!ELEMENT titulo (#PCDATA)>
+    <!ELEMENT descripcion (#PCDATA)>
+    <!ELEMENT estado (#PCDATA)>
