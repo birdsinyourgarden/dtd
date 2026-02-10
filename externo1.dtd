@@ -1,5 +1,8 @@
-    <!ELEMENT tareas (tareas+)>
+    <!ELEMENT tareas (tarea+)>
     <!ELEMENT tarea (titulo, descripcion, estado)>
     <!ELEMENT titulo (#PCDATA)>
     <!ELEMENT descripcion (#PCDATA)>
     <!ELEMENT estado (#PCDATA)>
+    <!ATTLIST element-name attribute-name ID #REQUIRED>
+
+    <!ELEMENT element-name (#PCDATA)>
